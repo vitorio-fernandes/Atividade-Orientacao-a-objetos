@@ -1,4 +1,4 @@
-## Getting Started
+## Atividade de Orientação a objetos com Java
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
